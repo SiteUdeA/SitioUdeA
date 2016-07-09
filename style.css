@@ -1,4 +1,11 @@
 
+* {
+
+   margin: 0;
+	
+   padding: 0;
+
+}
 .caja-redes {
     margin: 0 auto;
     padding: 15px;
